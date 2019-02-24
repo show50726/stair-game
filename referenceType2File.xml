@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TypeDate>
+    <guid>842f43ac94b4b4f72ac0898650ddcc44</guid>
+    <fileName>Assets/Cleaner/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2015-12-10T02:51:26+08:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.AssetCollector</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>805140a4856714e288ea84985d3023df</guid>
+    <fileName>Assets/Cleaner/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-10T02:51:26+08:00</timeStamp>
+    <typeFullName>
+      <string>AssetReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>202c278a17939b24c8b79c0ee1f94d8f</guid>
+    <fileName>Assets/Cleaner/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-10T02:51:26+08:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.ClassReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0d05386265df34bac8d0b6df44aa494c</guid>
+    <fileName>Assets/Cleaner/Editor/CollectionData.cs</fileName>
+    <timeStamp>2015-12-10T02:51:26+08:00</timeStamp>
+    <typeFullName>
+      <string>CollectionData</string>
+      <string>TypeDate</string>
+      <string>IReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>74eec3bfba0594259ac2843353c082a3</guid>
+    <fileName>Assets/Cleaner/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2015-12-10T02:51:26+08:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.FindUnusedAssetsWindow</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2c4f01a79a77a45a9a84004cc2b78098</guid>
+    <fileName>Assets/Cleaner/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-10T02:51:26+08:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.ShaderReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c463263b00b6deb4a89f41accf4153e1</guid>
+    <fileName>Assets/Scripts/BackGroundRoll.cs</fileName>
+    <timeStamp>2018-11-08T21:01:32.01094+08:00</timeStamp>
+    <typeFullName>
+      <string>BackGroundRoll</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b6af5e81f8770476b8f3aee326f4867f</guid>
+    <fileName>Assets/Scripts/Bullet.cs</fileName>
+    <timeStamp>2018-05-01T23:30:02.652429+08:00</timeStamp>
+    <typeFullName>
+      <string>Bullet</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>404696bee7084894c9e37ddddf7a0048</guid>
+    <fileName>Assets/Scripts/ButtonClick.cs</fileName>
+    <timeStamp>2018-05-25T20:18:44.5185298+08:00</timeStamp>
+    <typeFullName>
+      <string>ButtonClick</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>493ed81bd25373e42a95698568dff1fe</guid>
+    <fileName>Assets/Scripts/DeadArea.cs</fileName>
+    <timeStamp>2018-05-11T23:30:11.5991951+08:00</timeStamp>
+    <typeFullName>
+      <string>DeadArea</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c90b89270111e7043a0df24d46958177</guid>
+    <fileName>Assets/Scripts/FloorCreate.cs</fileName>
+    <timeStamp>2018-05-18T22:51:51.2589007+08:00</timeStamp>
+    <typeFullName>
+      <string>FloorCreate</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4960ccd49fe4ef14e85630d015fbe142</guid>
+    <fileName>Assets/Scripts/FloorMove.cs</fileName>
+    <timeStamp>2018-05-26T15:53:22.067833+08:00</timeStamp>
+    <typeFullName>
+      <string>FloorMove</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fbb4d9f76ac5a314db0820b6605cfcad</guid>
+    <fileName>Assets/Scripts/GameObjectClone.cs</fileName>
+    <timeStamp>2018-05-18T22:51:43.3338711+08:00</timeStamp>
+    <typeFullName>
+      <string>GameObjectClone</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9d35b95d4911b574cb74870cb6419286</guid>
+    <fileName>Assets/Scripts/GamSystemManager.cs</fileName>
+    <timeStamp>2018-05-26T14:42:22.4154533+08:00</timeStamp>
+    <typeFullName>
+      <string>GamSystemManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d10bda8a5c7afe546897a1b823c37956</guid>
+    <fileName>Assets/Scripts/GSM2P.cs</fileName>
+    <timeStamp>2018-05-26T14:42:30.0191113+08:00</timeStamp>
+    <typeFullName>
+      <string>GSM2P</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c6d20bca9db65584c970be0dccf0c2f3</guid>
+    <fileName>Assets/Scripts/HarmfulArea.cs</fileName>
+    <timeStamp>2018-05-11T23:25:11.4332261+08:00</timeStamp>
+    <typeFullName>
+      <string>HarmfulArea</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f1aa20f26aeb7b448af674bdd9453da7</guid>
+    <fileName>Assets/Scripts/Item.cs</fileName>
+    <timeStamp>2018-05-11T23:33:19.461757+08:00</timeStamp>
+    <typeFullName>
+      <string>Item</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>859b906fc98c25d4f9f5afdb5b6096d5</guid>
+    <fileName>Assets/Scripts/Movement2P.cs</fileName>
+    <timeStamp>2018-05-25T20:39:11.8888474+08:00</timeStamp>
+    <typeFullName>
+      <string>Movement2P</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a84796974b7984146a9498e024823346</guid>
+    <fileName>Assets/Scripts/Player.cs</fileName>
+    <timeStamp>2018-05-17T20:27:49.9875317+08:00</timeStamp>
+    <typeFullName>
+      <string>Player</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c9b1a162232a6437c9cf4a4fe795b079</guid>
+    <fileName>Assets/Scripts/PlayerMovement.cs</fileName>
+    <timeStamp>2018-05-25T20:38:57.4695383+08:00</timeStamp>
+    <typeFullName>
+      <string>PlayerMovement</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d5b575c2d2b41de47b46b5191887a5fb</guid>
+    <fileName>Assets/Scripts/Rabbit AI/RabbitAttackState.cs</fileName>
+    <timeStamp>2018-03-19T23:58:53+08:00</timeStamp>
+    <typeFullName>
+      <string>RabbitAttackState</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6f429d150791e814b977fdb36a446705</guid>
+    <fileName>Assets/Scripts/Rabbit AI/RabbitBehavior.cs</fileName>
+    <timeStamp>2018-03-20T00:23:36+08:00</timeStamp>
+    <typeFullName>
+      <string>RabbitBehavior</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9e02e9a3b8c33904cabaa8870c061318</guid>
+    <fileName>Assets/Scripts/Rabbit AI/RabbitWalkState.cs</fileName>
+    <timeStamp>2018-03-19T23:55:17+08:00</timeStamp>
+    <typeFullName>
+      <string>RabbitWalkState</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2538427cb9c73dc469286a8148154a81</guid>
+    <fileName>Assets/Scripts/UI/UIRandomShaking.cs</fileName>
+    <timeStamp>2018-05-04T20:19:30.0312121+08:00</timeStamp>
+    <typeFullName>
+      <string>UIRandomShaking</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3ae6f3884c842b94bb3922f4ebb20e13</guid>
+    <fileName>Assets/Scripts/UI/UITextChangingColor.cs</fileName>
+    <timeStamp>2018-05-26T15:25:04.1166655+08:00</timeStamp>
+    <typeFullName>
+      <string>UITextChangingColor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1310e65397a274d44a776b51d6937f61</guid>
+    <fileName>Assets/Simple Health Bar/Scripts/SimpleHealthBar.cs</fileName>
+    <timeStamp>2018-02-10T09:16:06+08:00</timeStamp>
+    <typeFullName>
+      <string>SimpleHealthBar</string>
+      <string>SimpleHealthBar+DisplayText</string>
+      <string>SimpleHealthBar+ColorMode</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+</ArrayOfTypeDate>
